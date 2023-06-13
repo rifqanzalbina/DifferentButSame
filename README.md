@@ -1,7 +1,7 @@
 # NumPy 
 A NumPy Basic Problem with the solve
 
-## Dowload Library
+## Install The Library
 Command Prompt type `pip install numpy`
 
 ## What is this Library and What use for?
