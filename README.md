@@ -25,5 +25,6 @@ A NumPy Problem Case
 - It adds powerful data structures to Python that guarantee efficient calculations with 
 - Arrays and matrices and it supplies an enormous library of high-level mathematical functions that operate on these arrays and matrices.
 
-# Always Update case problem EveryWeek :D
+# Creadit
+- Always Update case problem EveryWeek :D
 - Stay Soon
