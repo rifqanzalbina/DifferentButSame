@@ -28,3 +28,4 @@ A NumPy Problem Case
 # Credit
 - Always Update case problem EveryWeek :D
 - Stay Soon
+- rifqanzalbina
