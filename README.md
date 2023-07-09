@@ -19,6 +19,7 @@ A NumPy Problem Case
 
 ## How Install The Library?
 - Command Prompt type `pip install numpy`
+- Command Prompt type `conda install numpy`
 
 ## What is this Library and What use for?
 - NumPy can be used to perform a wide variety of mathematical operations on arrays
