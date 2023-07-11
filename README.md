@@ -27,6 +27,6 @@ A NumPy Problem Case
 - Arrays and matrices and it supplies an enormous library of high-level mathematical functions that operate on these arrays and matrices.
 
 # Credit
-- Always Update case problem EveryWeek :D
+- Always Update , Just wait :D
 - Stay Soon
 - rifqanzalbina
