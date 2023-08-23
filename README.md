@@ -1,5 +1,5 @@
 # The Execution of Data Things
-The data used add diferent language
+Data with differennt things use : 
 - C#
 - Python
 - JS
