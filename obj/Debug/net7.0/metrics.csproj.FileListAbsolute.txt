@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\MetricsMathNet\metrics\bin\Debug\net7.0\metrics.exe
+C:\Users\User\Desktop\MetricsMathNet\metrics\bin\Debug\net7.0\metrics.deps.json
+C:\Users\User\Desktop\MetricsMathNet\metrics\bin\Debug\net7.0\metrics.runtimeconfig.json
+C:\Users\User\Desktop\MetricsMathNet\metrics\bin\Debug\net7.0\metrics.dll
+C:\Users\User\Desktop\MetricsMathNet\metrics\bin\Debug\net7.0\metrics.pdb
+C:\Users\User\Desktop\MetricsMathNet\metrics\bin\Debug\net7.0\MathNet.Numerics.dll
+C:\Users\User\Desktop\MetricsMathNet\metrics\obj\Debug\net7.0\metrics.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MetricsMathNet\metrics\obj\Debug\net7.0\metrics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MetricsMathNet\metrics\obj\Debug\net7.0\metrics.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MetricsMathNet\metrics\obj\Debug\net7.0\metrics.AssemblyInfo.cs
+C:\Users\User\Desktop\MetricsMathNet\metrics\obj\Debug\net7.0\metrics.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MetricsMathNet\metrics\obj\Debug\net7.0\metrics.csproj.CopyComplete
+C:\Users\User\Desktop\MetricsMathNet\metrics\obj\Debug\net7.0\metrics.dll
+C:\Users\User\Desktop\MetricsMathNet\metrics\obj\Debug\net7.0\refint\metrics.dll
+C:\Users\User\Desktop\MetricsMathNet\metrics\obj\Debug\net7.0\metrics.pdb
+C:\Users\User\Desktop\MetricsMathNet\metrics\obj\Debug\net7.0\metrics.genruntimeconfig.cache
+C:\Users\User\Desktop\MetricsMathNet\metrics\obj\Debug\net7.0\ref\metrics.dll
