@@ -2,7 +2,6 @@
 
 **rust**
 ```
-<br>
 use polars::prelude::*;
 ```
 <p>
